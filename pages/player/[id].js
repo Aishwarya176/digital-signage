@@ -179,7 +179,7 @@ const Player = () => {
                     return ele.media.map((list, index) => (
                         <div
                             key={list.file}
-                            className="absolute border border-grey-400 bg-blue"
+                            className="absolute bg-blue"
                             style={{
                                 width: `${frame.frame_width}px`,
                                 height: `${frame.frame_height}px`,
