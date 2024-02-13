@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 
 // Sample player data
 const players = [
-  { id: "4DC9C118C9294C3281D85324216731F2", name: 'Player 1' },
+  { id: "61F41769348F44ADB4434CE5010551D9", name: 'Player 1' },
   { id: "6789DD19E6134C8A9A4DD44374DD15E7", name: 'Player 2' },
   // Add more player data as needed
 ];
